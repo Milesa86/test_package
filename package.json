@@ -1,0 +1,23 @@
+{
+  "name": "test_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milesa86/test_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Milesa86/test_package/issues"
+  },
+  "homepage": "https://github.com/Milesa86/test_package#readme",
+  "description": "",
+  "dependencies": {
+    "@milesa86/ajs": "^1.0.0"
+  }
+}
